@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* This is general text to check either repository work and code pushes into github repository.
