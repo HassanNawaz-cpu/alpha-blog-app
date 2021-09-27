@@ -48,7 +48,7 @@ end
 # added due to deploy app on heroku
 group :production do
 
-  gem 'pg'
+  gem 'pg', '~> 0.11'
 
 end
 group :test do
